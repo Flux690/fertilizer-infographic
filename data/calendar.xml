@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Row>
+    <index>0</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>1</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>2</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-11-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>3</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>3</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>3</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>4</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>5</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>6</index>
+    <Importer>India</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>7</index>
+    <Importer>India</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-08-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>8</index>
+    <Importer>India</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>9</index>
+    <Importer>Brazil</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>10</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>11</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-03-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>12</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>13</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-11-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>14</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-02-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>15</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-03-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>16</index>
+    <Importer>Turkey</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>17</index>
+    <Importer>Turkey</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>18</index>
+    <Importer>Turkey</Importer>
+    <Crop>Barley</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>19</index>
+    <Importer>Turkey</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>20</index>
+    <Importer>Turkey</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>21</index>
+    <Importer>Turkey</Importer>
+    <Crop>Sunflowers</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>22</index>
+    <Importer>Thailand</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-08-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>23</index>
+    <Importer>Thailand</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>24</index>
+    <Importer>Thailand</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>25</index>
+    <Importer>Thailand</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-09-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>26</index>
+    <Importer>Thailand</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>27</index>
+    <Importer>Thailand</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-07-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>28</index>
+    <Importer>Thailand</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-11-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>29</index>
+    <Importer>Thailand</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>30</index>
+    <Importer>Thailand</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-07-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>31</index>
+    <Importer>Thailand</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-09-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>32</index>
+    <Importer>Thailand</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>33</index>
+    <Importer>Mexico</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>34</index>
+    <Importer>Mexico</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>35</index>
+    <Importer>Mexico</Importer>
+    <Crop>Sorghum</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>36</index>
+    <Importer>Mexico</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>37</index>
+    <Importer>Mexico</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>38</index>
+    <Importer>Mexico</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>urea</Fertilizer>
+  </Row>
+  <Row>
+    <index>39</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>40</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>41</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-11-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>3</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>42</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-03-15 00:00:00</End>
+    <Application>3</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>43</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>44</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>45</index>
+    <Importer>India</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>46</index>
+    <Importer>India</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>47</index>
+    <Importer>India</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-09-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>48</index>
+    <Importer>India</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>49</index>
+    <Importer>India</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-02-28 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>50</index>
+    <Importer>Brazil</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>51</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>52</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-03-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>53</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>54</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-02-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>55</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>56</index>
+    <Importer>Brazil</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>57</index>
+    <Importer>Brazil</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-16 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>58</index>
+    <Importer>United States</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>59</index>
+    <Importer>United States</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>60</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>61</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>62</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>63</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-10-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>64</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>65</index>
+    <Importer>United States</Importer>
+    <Crop>Sorghum</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>66</index>
+    <Importer>United States</Importer>
+    <Crop>Sorghum</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>67</index>
+    <Importer>United States</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>68</index>
+    <Importer>Canada</Importer>
+    <Crop>Rapeseed</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>69</index>
+    <Importer>Canada</Importer>
+    <Crop>Rapeseed</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>70</index>
+    <Importer>Canada</Importer>
+    <Crop>Rapeseed</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>71</index>
+    <Importer>Canada</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>72</index>
+    <Importer>Canada</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>73</index>
+    <Importer>Canada</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>74</index>
+    <Importer>Canada</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-10-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>75</index>
+    <Importer>Canada</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>76</index>
+    <Importer>Canada</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>77</index>
+    <Importer>Canada</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>78</index>
+    <Importer>Canada</Importer>
+    <Crop>Barley</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>79</index>
+    <Importer>Canada</Importer>
+    <Crop>Barley</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>80</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Aman)</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-08-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>81</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Aman)</Crop>
+    <Start>2025-09-16 00:00:00</Start>
+    <End>2025-09-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>82</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Aman)</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>83</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Boro)</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-02-28 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>84</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Boro)</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-04-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>85</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Aus)</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-04-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>86</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Rice (Aus)</Crop>
+    <Start>2025-05-16 00:00:00</Start>
+    <End>2025-06-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>87</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>88</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-02-28 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>89</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Fibre Crops</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>90</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-11-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>91</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>92</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-02-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>93</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>94</index>
+    <Importer>Bangladesh</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>phosphate</Fertilizer>
+  </Row>
+  <Row>
+    <index>95</index>
+    <Importer>Brazil</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>96</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-12-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>97</index>
+    <Importer>Brazil</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-03-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>98</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar crops</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>99</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar crops</Crop>
+    <Start>2025-02-01 00:00:00</Start>
+    <End>2025-02-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>100</index>
+    <Importer>Brazil</Importer>
+    <Crop>Sugar crops</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>101</index>
+    <Importer>Brazil</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>102</index>
+    <Importer>Brazil</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-16 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>103</index>
+    <Importer>China</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-05-16 00:00:00</Start>
+    <End>2025-06-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>104</index>
+    <Importer>China</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-07-16 00:00:00</Start>
+    <End>2025-08-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>105</index>
+    <Importer>China</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>106</index>
+    <Importer>China</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>107</index>
+    <Importer>China</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-03-15 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>108</index>
+    <Importer>China</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-05-16 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>109</index>
+    <Importer>China</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-07-24 00:00:00</Start>
+    <End>2025-08-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>110</index>
+    <Importer>China</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-10-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>111</index>
+    <Importer>China</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-16 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>112</index>
+    <Importer>China</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-04-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>113</index>
+    <Importer>China</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>114</index>
+    <Importer>China</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-05-16 00:00:00</Start>
+    <End>2025-06-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>115</index>
+    <Importer>China</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>116</index>
+    <Importer>China</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>117</index>
+    <Importer>China</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>118</index>
+    <Importer>United States</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>119</index>
+    <Importer>United States</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-06-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>120</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>121</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-06-16 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>122</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-11-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>123</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-10-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>124</index>
+    <Importer>United States</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>125</index>
+    <Importer>United States</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-03-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>126</index>
+    <Importer>United States</Importer>
+    <Crop>Sorghum</Crop>
+    <Start>2025-04-01 00:00:00</Start>
+    <End>2025-07-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>127</index>
+    <Importer>United States</Importer>
+    <Crop>Sorghum</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>128</index>
+    <Importer>India</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>129</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>130</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>131</index>
+    <Importer>India</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-11-01 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>3</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>132</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>133</index>
+    <Importer>India</Importer>
+    <Crop>Wheat</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-01-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>134</index>
+    <Importer>India</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>135</index>
+    <Importer>India</Importer>
+    <Crop>Soybeans</Crop>
+    <Start>2025-06-01 00:00:00</Start>
+    <End>2025-08-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>136</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>137</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-03-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>138</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Palm Oil</Crop>
+    <Start>2025-05-01 00:00:00</Start>
+    <End>2025-06-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>139</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-10-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>140</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-05-15 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>141</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Rice</Crop>
+    <Start>2025-04-16 00:00:00</Start>
+    <End>2025-11-15 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>142</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-09-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>143</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Sugar Crops</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>144</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-09-16 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>145</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-05-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>146</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Corn</Crop>
+    <Start>2025-03-16 00:00:00</Start>
+    <End>2025-10-31 00:00:00</End>
+    <Application>2</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>147</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-10-01 00:00:00</Start>
+    <End>2025-12-31 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+  <Row>
+    <index>148</index>
+    <Importer>Indonesia</Importer>
+    <Crop>Pulses</Crop>
+    <Start>2025-01-01 00:00:00</Start>
+    <End>2025-04-30 00:00:00</End>
+    <Application>1</Application>
+    <Fertilizer>potash</Fertilizer>
+  </Row>
+</Root>
