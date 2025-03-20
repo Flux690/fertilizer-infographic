@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGS Fertilizer Infographic</title>
+    <link rel="stylesheet" href="https://public.flourish.studio/fonts/2e63fb0f-c06d-45de-81f1-e0713fd76439/stylesheet.css?family=Akkurat+regular">
+    <link rel="stylesheet" href="https://public.flourish.studio/fonts/2e63fb0f-c06d-45de-81f1-e0713fd76439/stylesheet.css?family=Akkurat+Bold">
+    <link rel="stylesheet" href="https://public.flourish.studio/fonts/2e63fb0f-c06d-45de-81f1-e0713fd76439/stylesheet.css?family=Akkurat+light">
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- D3 Import -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- D3 Sankey Import -->
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+
+    <!-- Three JS Import -->
+    <script src="https://unpkg.com/three@0.128.0/build/three.min.js"></script>  
+
+    <!-- Three JS Sprite Text Import -->
+    <script src="https://app.unpkg.com/three-spritetext@latest/files/dist/three-spritetext.mjs"></script>
+
+    <!-- 3D Force Graph Import  -->
+    <script src="https://cdn.jsdelivr.net/npm/3d-force-graph@latest/dist/3d-force-graph.min.js"></script>
+
+    <!-- Tween JS Animation Library Import -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tweenjs/tween.js@18.6.4/dist/tween.umd.js"></script> -->
+
+    <!-- Font Awesome Icon Pack Import -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  </head>
+  <body>
+    <div class="final-wrapper">
+      <header>
+        <div class="title">Platts Global Food Web</div>
+      </header>
+      <div class="showcase-area">
+        <div class="toggle-container">
+          <button class="phosphates btn active" data-dataset="phosphate">Phosphates</button>
+          <button class="potash btn" data-dataset="potash">Potash</button>
+          <button class="urea btn" data-dataset="urea">Urea</button>
+        </div>
+        <div class="text-container">
+          <p id="explanation" class="explanation">Top 5 global exporters and their largest trade corridors, 2023
+          </p>
+          <p class="instruction">Select a country for more detail</p>
+          <p class="legend-1"><span class="circle-1"></span>Exporter (sized by total global exports)</p>
+          <p class="legend-2"><span class="circle-2"></span>Importer (sized by flows from top 5 exporters)</p>
+          <div class="graph-sankey-switch">
+            <button class="view-switch active" id="network_chart_toggle">Network Chart</button>
+            <button class="view-switch " id="sankey_chart_toggle">Sankey Chart</button>
+          </div>
+        </div>
+      </div>
+      <div class="container-area">
+        <div class="canvas-container" id="3d_graph"></div>
+        <div class="sankey-container" id="sankey"></div>
+      </div>
+      <div class="graph-area">
+        <div class="barplot-container">
+          <div class="main-barplot-area">
+            <p class="barchart-title"></p>
+            <p class="barchart-subtitle"></p>
+            <div id="barplot"></div>
+            <p class="barchart-footer"></p>
+          </div>
+          <div class="price-chart-area">
+            <img src="price-chart.svg" alt="">
+          </div>
+        </div>
+        <div class="donutchart-container">
+          <div class="main-donutchart-area">
+            <p class="donutchart-title"></p>
+            <div id="donut"></div>
+            <button id="show-calendar">
+              <svg  width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M24.9544 27.0425H2.04556V27.6108H24.9544V27.0425Z" fill="#EDF86F"/>
+                <path d="M27 27.3229H26.4386V4.45701H0.561379V27.3229H0V3.88867H27V27.3229Z" fill="#EDF86F"/>
+                <path d="M26.7232 10.1245H0.284546V10.6929H26.7232V10.1245Z" fill="#EDF86F"/>
+                <path d="M8.49756 18.2685H2.64539V12.3516H8.49756V18.2685ZM3.20676 17.6924H7.93619V12.9199H3.20676V17.6924Z" fill="#EDF86F"/>
+                <path d="M24.3546 18.2685H18.5024V12.3516H24.3546V18.2685ZM19.0638 17.6924H23.7932V12.9199H19.0638V17.6924Z" fill="#EDF86F"/>
+                <path d="M16.4261 18.2685H10.5739V12.3516H16.4261V18.2685ZM11.1353 17.6924H15.8647V12.9199H11.1353V17.6924Z" fill="#EDF86F"/>
+                <path d="M8.49756 25.8359H2.64539V19.9189H8.49756V25.8359ZM3.20676 25.2598H7.93619V20.4873H3.20676V25.2598Z" fill="#EDF86F"/>
+                <path d="M16.4261 25.8359H10.5739V19.9189H16.4261V25.8359ZM11.1353 25.2598H15.8647V20.4873H11.1353V25.2598Z" fill="#EDF86F"/>
+                <path d="M22.5859 0.61084H22.0245V7.73454H22.5859V0.61084Z" fill="#EDF86F"/>
+                <path d="M13.7807 0.61084H13.2193V7.73454H13.7807V0.61084Z" fill="#EDF86F"/>
+                <path d="M4.96781 0.61084H4.40643V7.73454H4.96781V0.61084Z" fill="#EDF86F"/>
+              </svg>
+              <p>Fertilizer Application Calendar</p>
+            </button>
+            <p class="donutchart-footer2"></p>
+          </div>
+          <div class="crop-price-chart-area">
+            <img src="price-chart.svg" alt="">
+          </div>
+          <div class="calendar-area">
+            <p class="ganttchart-title"></p>
+            <div id="calendar"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./data/data.js"></script>
+    <script src="./data/crop_data.js"></script>
+    <script src="./javascript/3d_graph.js"></script>
+    <script src="./javascript/barplot.js"></script>
+    <script src="./javascript/donutchart.js"></script>
+    <script src="./javascript/ganttchart.js"></script>
+    <script src="./javascript/sankey.js"></script>
+    <script src="./javascript/toggle.js"></script>
+  </body>
+</html>
