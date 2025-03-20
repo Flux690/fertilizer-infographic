@@ -1,0 +1,353 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    overflow-y: auto;
+}
+
+body {
+    background-color: #FFF;
+    color: white;
+    font-family: "Akkurat regular";
+    width: 100%;
+    /* height: 100vh; */
+    margin: 0;
+}
+
+.final-wrapper {
+    background-color: #0A0A0A;
+    width: 100%;
+    max-width: 56.25rem;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    position: relative;
+    padding: 1rem 0 0.5rem 1rem;
+}
+
+.title {
+    font-family: "Akkurat Bold";
+    font-size: 1.5rem;
+}
+
+.showcase-area {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem 0 1rem;
+    min-height: 8rem;
+}
+
+.text-container {
+    order: 1;
+    height: auto;
+}
+
+.toggle-container {
+    order: 2;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: auto;
+    justify-content: space-evenly;
+}
+
+.explanation {
+    font-size: 1.25rem;
+    margin: 0.3125rem 0 .5rem 0;
+}
+
+.instruction {
+    font-family: "Akkurat light";
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 0 0 0.5rem 0;
+}
+
+.legend-1,
+.legend-2 {
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    color: #808184;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.circle-1,
+.circle-2 {
+    height: 0.8125rem;
+    width: 0.8125rem;
+    margin-right: 0.3125rem;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.circle-1 {
+    background-color: #24829a;
+}
+
+.circle-2 {
+    background-color: #f1a649;
+}
+
+.graph-sankey-switch {
+    display: flex;
+    margin: 0 0 0.3125rem 0;
+}
+
+.view-switch {
+    background: none;
+    border: none;
+    color: #EDF86F;
+    font-size: 0.875rem;
+    font-family: "Akkurat light";
+    cursor: pointer;
+    padding: 0.675rem 0 0 0;
+    transition: all 0.4s ease;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.graph-sankey-switch .view-switch::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #FFF;
+    transform: translateX(-100%);
+    transition: transform 0.5s ease;
+}
+
+.graph-sankey-switch .view-switch:hover::after,
+.graph-sankey-switch .view-switch.active::after {
+    transform: translateX(0);
+}
+
+.view-switch:first-child {
+    margin-right: 1rem;
+}
+
+.view-switch:hover {
+    color: #FFF;
+}
+
+.view-switch.active {
+    color: #FFF;
+}
+
+.btn {
+    color: #EDF86F;
+    background-color: rgba(51, 51, 51, 0.9);
+    border: none;
+    height: 2.25rem;
+    font-size: 1rem;
+    font-family: "Akkurat Bold";
+    transition: all 0.4s ease;
+}
+
+.btn:hover,
+.btn.active {
+    color: #FFF;
+    background-color: rgba(51, 51, 51, 0.1);
+}
+
+.container-area {
+    position: relative;
+    width: 100%;
+}
+
+.canvas-container {
+    width: 100%;
+    height: 0;
+    padding-bottom: 60%;
+    display: block;
+    position: relative;
+}
+
+.sankey-container {
+    width: 100%;
+    /* height: 100vh; */
+    height: 35rem;
+}
+
+.sankey-hover {
+    transition: stroke-opacity 0.4s ease, fill-opacity 0.4s ease;
+}
+
+.barplot-container,
+.donutchart-container {
+    display: none;
+    flex-direction: row;
+}
+
+.main-barplot-area,
+.main-donutchart-area {
+    width: 50%;
+}
+
+#barplot {
+    width: 100%;
+    height: 16rem;
+}
+
+#donut {
+    width: 100%;
+    height: 16rem;
+}
+
+.barchart-title,
+.donutchart-title,
+.ganttchart-title {
+    font-size: 1.25rem;
+    font-family: "Akkurat Bold";
+}
+
+.barchart-title {
+    padding: 1rem 0 0 1rem;
+}
+
+.donutchart-title {
+    padding: 1rem 0 1rem 1rem;
+}
+
+.ganttchart-title {
+    padding: 1rem 0 1rem 0;
+}
+
+.barchart-subtitle {
+    font-size: 0.875rem;
+    font-family: "Akkurat light";
+    padding: 0 0 0 1rem;
+}
+
+#show-calendar {
+    display: flex;
+    align-items: center;
+    background: none;
+    color: #FFF;
+    border: none;
+    padding: 0 0 0 .9rem;
+    font-size: .9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#show-calendar svg path {
+    fill: #FFF;
+}
+
+#show-calendar.active svg path,
+#show-calendar:hover svg path {
+    fill: #EDF86F;
+}
+
+#show-calendar p {
+    margin: .25rem 0 0 .25rem;
+}
+
+#show-calendar.active,
+#show-calendar:hover {
+    color: #EDF86F;
+}
+
+.barchart-footer,
+.donutchart-footer1,
+.donutchart-footer2 {
+    padding: .4rem 0 0 .9rem;
+    font-family: "Akkurat light";
+    font-size: 0.875rem;
+}
+
+.barchart-title,
+.barchart-subtitle,
+.barchart-footer,
+.donutchart-title,
+.donutchart-subtitle,
+.donutchart-footer1,
+.donutchart-footer2,
+.ganttchart-title {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.x-axis,
+.y-axis {
+    font-family: "Akkurat light";
+    font-size: .8rem;
+}
+
+.crop-text-styling {
+    font-family: "Akkurat light";
+    fill: #FFF;
+    cursor: pointer;
+}
+
+.price-chart-area,
+.crop-price-chart-area {
+    padding: 1rem 0 0 1rem;
+    width: 50%;
+    display: none;
+    position: relative;
+    background-color: #0A0A0A;
+    transition: all 0.5s ease;
+}
+
+.calendar-area {
+    width: 50%;
+    height: 22.5rem;
+    position: relative;
+    display: none;
+}
+
+#calendar {
+    width: 100%;
+    height: 16rem;
+}
+
+.price-chart-area.active,
+.crop-price-chart-area.active {
+    display: block;
+}
+
+.close-button,
+.close-button-ganttchart {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    z-index: 11;
+    background: none;
+    color: #EDF86F;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 2.5rem;
+}
+
+@media (max-width: 650px) {
+
+    .barplot-container,
+    .donutchart-container {
+        flex-direction: column;
+    }
+
+    .main-barplot-area,
+    .main-donutchart-area,
+    .calendar-area {
+        width: 100%;
+    }
+
+    .price-chart-area,
+    .crop-price-chart-area {
+        width: 100%;
+        height: 22.5rem;
+        position: absolute;
+    }
+}
